@@ -1,7 +1,11 @@
-TeamWin Recovery Project(latest )
+# Latest Custom Recovery Projects for Redmi 10 / 2022 (selene) - 2025-01-13
 
-OrangeFox Recovery Project(latest )
+## TeamWin Recovery Project (latest eklenecek)
 
-PitchBlack Recovery Project (latest )
+## OrangeFox Recovery Project (latest 2025-01-13)
+- [Get](https://github.com/etomanso/OrangeFox-Action-Builder/releases/tag/12735137208)
 
-SkyHawk Recovery Project Reborn (latest )
+## PitchBlack Recovery Project (latest 2024-04-26)
+- [Get](https://sourceforge.net/projects/pbrp/files/selene/PBRP-selene-4.0-20240426-1905-OFFICIAL.zip/download)
+
+## SkyHawk Recovery Project Reborn (latest eklenecek)
